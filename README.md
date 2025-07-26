@@ -7,7 +7,8 @@
 
 ## 📸 Preview
 
-![Crypto Price Tracker Screenshot](demo.png) <!-- Replace with your actual screenshot file -->
+![Crypto Price Tracker Screenshot] <!-- Replace with your actual screenshot file -->
+![Uploading WhatsApp Image 2025-07-26 at 9.15.11 AM.jpeg…]()
 
 ---
 
